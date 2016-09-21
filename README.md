@@ -3,6 +3,12 @@ List of journals / magazines related to data science, statistics, mathematics, c
 
 ###Data Science
 ####Technical Journal
+
+Hubs of Data Science resources
+
+http://www.datascienceassn.org/resources
+
+
 Data Mining Curriculum
 
 http://www.kdd.org/curriculum/view/introduction
