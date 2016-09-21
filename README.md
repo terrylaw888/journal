@@ -2,7 +2,7 @@
 List of journals / magazines related to data science, statistics, mathematics, computing, quantitative analysis, etc.
 
 ###Data Science
-
+####Technical Journal
 Data Mining Curriculum
 
 http://www.kdd.org/curriculum/view/introduction
@@ -11,6 +11,59 @@ http://www.kdd.org/curriculum/view/introduction
 SIGKDD EXPLORATIONS
 
 http://www.kdd.org/explorations
+
+
+Knowledge Discovery from Data (TKDD)
+
+http://tkdd.acm.org/
+
+
+Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery
+
+http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1942-4795
+
+
+Data Mining and Knowledge Discovery
+
+http://www.springer.com/computer/database+management+%26+information+retrieval/journal/10618
+
+
+International Journal of Data Science and Analytics
+
+http://www.springer.com/computer/database+management+%26+information+retrieval/journal/41060
+
+
+ACM Digital Library
+
+http://dl.acm.org/
+
+
+####Magazines
+
+Datanami
+
+https://www.datanami.com/
+
+
+Analytics Magazine (by Informs)
+
+http://analytics-magazine.org/
+
+
+Big Data Magazine
+
+http://online.liebertpub.com/loi/BIG
+
+
+Information Management
+
+http://www.information-management.com/
+
+
+Data Informed
+
+http://data-informed.com/
+
 
 ***
 
